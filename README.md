@@ -55,6 +55,7 @@ This documentation is longer than the source code.
 ## Useful reading
 
 * [GitHub's starter-workflows] project.
+* [pytest documentation]
 
 
 ["Hello, World!" program]: https://en.wikipedia.org/wiki/%22Hello,_World!%22_program
@@ -62,6 +63,7 @@ This documentation is longer than the source code.
 [make]: https://www.gnu.org/software/make/
 [CI]: https://docs.github.com/en/actions/automating-builds-and-tests/about-continuous-integration
 [GitHub Actions]: https://docs.github.com/en/actions
+[pytest documentation]: https://docs.pytest.org/
 
 [build-log]:    https://github.com/rudymatela/hello-py/actions/workflows/build.yml
 [build-status]: https://github.com/rudymatela/hello-py/actions/workflows/build.yml/badge.svg
