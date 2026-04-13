@@ -55,6 +55,7 @@ This documentation is longer than the source code.
 ## Useful reading
 
 * [GitHub's starter-workflows] project.
+* [pytest documentation](https://docs.pytest.org/)
 
 
 ["Hello, World!" program]: https://en.wikipedia.org/wiki/%22Hello,_World!%22_program
